@@ -1,1 +1,2 @@
 # PRL-offset
+Definition of the preferred retinal locus (PRL) used to watch videos by participants with normal vision, blur defocus lenses, and central visual loss, as compared to the democratic Center of Interest
