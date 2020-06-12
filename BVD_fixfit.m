@@ -1,7 +1,7 @@
 %THIS PROGRAM CALCULATES BIVARIATE ELLIPSES FOR NORMAL SUBJECTS' FOVEAL
 %FIXATION DATA IN DEGREES^2.  THE INPUT IS UN-DISTORTED X,Y FOVEAL POSITION
 %RELATIVE TO THE OPTIC DISC IN DEGREES FROM EXCEL SPREADHEET 'FIXATION RE-MEASURE'
-%the BVD program modified for fixation fitting by AR-05/09
+%the BVD program modified for fixation fitting by FC
 function[fovea]=BVD_fixfit(imageDir,nidekFileStructs,m,fovea,ecc_Theta,ecc_R)
 for ctr = 1:length(nidekFileStructs)
 
